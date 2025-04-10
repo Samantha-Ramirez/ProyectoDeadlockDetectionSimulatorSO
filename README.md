@@ -1,6 +1,6 @@
 # Simulador de prevención de interbloqueo
 
-El propósito de este proyecto es desarrollar un simulador implementado en **C** que implemente un algoritmo de prevención de interbloqueo (deadlock). Un algoritmo usual para la prevención del interbloqueo es el del banquero.
+El propósito de este proyecto es desarrollar un simulador en **C** que implemente un algoritmo de prevención de interbloqueo (deadlock). Un algoritmo usual para la prevención del interbloqueo es el del banquero.
 
 ## Estructura del proyecto
 
