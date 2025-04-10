@@ -2,9 +2,6 @@
 
 El propósito de este proyecto es desarrollar un simulador implementado en **C** que implemente un algoritmo de prevención de interbloqueo (deadlock). Un algoritmo usual para la prevención del interbloqueo es el del banquero.
 
-> **NOTA**: El algoritmo se puede encontrar con más detalle en el libro de William Stallings en la página 269 
-> aproximadamente o el Silberschatz en la página 229 aproximadamente.
-
 ## Estructura del proyecto
 
 La estructura del proyecto es la siguiente:
