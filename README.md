@@ -5,13 +5,6 @@ El propósito de este proyecto es desarrollar un simulador implementado en **C**
 > **NOTA**: El algoritmo se puede encontrar con más detalle en el libro de William Stallings en la página 269 
 > aproximadamente o el Silberschatz en la página 229 aproximadamente.
 
-## Objetivos específicos
-
-1. Entender y explicar el funcionamiento del algoritmo de detección de interbloqueo.
-2. Diseñar y programar un simulador que permita visualizar el proceso de prevención de interbloqueo.
-3. Probar el simulador con diferentes escenarios para verificar su correcto funcionamiento.
-4. Documentar el diseño y el uso del simulador.
-
 ## Estructura del proyecto
 
 La estructura del proyecto es la siguiente:
